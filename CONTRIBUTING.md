@@ -20,7 +20,7 @@ To add a contributor (other than yourself, that's automatic), mark them one per 
 If you added a contributor by mistake, you can remove them in a comment with:
 
 ```
--@github_username
+ithub-@github_Rogerme22    
 ```
 
 If you are making a pull request on behalf of someone else but you had no part in designing the 
